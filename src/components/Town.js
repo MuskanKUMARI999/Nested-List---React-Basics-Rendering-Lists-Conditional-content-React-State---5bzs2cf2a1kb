@@ -9,5 +9,3 @@ function Town({name,index}) {
 }
 
 export default Town
-Footer
-© 2023 GitHub, Inc.
